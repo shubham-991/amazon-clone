@@ -2,6 +2,7 @@
 
 o Created amazon-clone with fully ecommerce functionalities register, login, user authentication,
 homepage, add to cart, payment and order history.
+
 o Developed using HTML, CSS, JavaScript, React, NodeJS, Express, and Firebase for user authentication
 and storing database, Stripe JS library for adding payment functionality.
 
